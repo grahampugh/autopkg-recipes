@@ -29,7 +29,7 @@ Input keys:
     <key>MinimumVersion</key>
     <string>0.2.0</string>
     <key>ParentRecipe</key>
-    <string>com.github.autopkg.pkg.munkitools2</string>
+    <string>com.github.grahampugh.pkg.munkitools2</string>
     <key>Process</key>
     <array>
         <dict>
