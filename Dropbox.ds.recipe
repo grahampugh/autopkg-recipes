@@ -19,7 +19,7 @@ Input keys:
   It defaults to %NAME% (just the app name); use %pkgname% if you want the version number appended.
 </string>
     <key>Identifier</key>
-    <string>com.github.grahampugh.ds.____</string>
+    <string>com.github.grahampugh.ds.Dropbox</string>
     <key>Input</key>
     <dict>
         <key>DS_PKGS_PATH</key>
@@ -30,7 +30,7 @@ Input keys:
     <key>MinimumVersion</key>
     <string>0.2.0</string>
     <key>ParentRecipe</key>
-    <string>com.github.parentgithubusername.pkg.____</string>
+    <string>com.github.autopkg.pkg.dropbox</string>
     <key>Process</key>
     <array>
         <dict>
